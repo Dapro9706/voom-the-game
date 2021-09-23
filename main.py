@@ -1,6 +1,6 @@
 from game import Window, pyglet
 
-frameRate = 30
+frameRate = 60
 
 if __name__ == '__main__':
     win = Window (768, 512, "Test")
